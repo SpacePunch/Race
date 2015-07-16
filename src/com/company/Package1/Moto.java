@@ -5,5 +5,5 @@ package com.company.Package1;
  */
 public interface Moto
 {
-	void race(Moto enemy);
+	void race(AbstractMoto enemy);
 }
